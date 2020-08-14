@@ -1,0 +1,5 @@
+bookie-config~=0.5.3
+python-json-logger~=0.1.5
+jsonpickle~=0.9.5
+typing==3.5.3.0
+six~=1.10

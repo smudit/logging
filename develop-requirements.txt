@@ -1,0 +1,2 @@
+#install manually
+pydoc-markdown~=2.0.4

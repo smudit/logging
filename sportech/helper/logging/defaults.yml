@@ -1,0 +1,7 @@
+logging:
+  loggers:
+    sportech.helper.logging:
+      level: ERROR
+      handlers:
+        - console
+      propagate: False

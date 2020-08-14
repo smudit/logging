@@ -1,0 +1,11 @@
+site_name: "sportech-helper-logging documentation"
+
+generate:
+- sportech/helper/logging/api.md:
+  - sportech.helper.logging++
+
+pages:
+- Home: index.md << README.md
+- sportech.helper.logging api: sportech/helper/logging/api.md
+
+gens_dir: doc
