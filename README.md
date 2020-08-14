@@ -11,7 +11,7 @@ install deb requirements
 
 install package
 ```
-$ pip3 install sportech-helper-logging
+$ pip3 install ....git
 ```
 
 # Development
