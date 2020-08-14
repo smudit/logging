@@ -1,4 +1,3 @@
-# sportech-helper-logging
 
 ### Installation
 
