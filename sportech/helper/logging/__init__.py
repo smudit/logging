@@ -9,7 +9,6 @@ from sportech.helper.logging.formatter import BOTLogFormatter  # noqa: E402
 
 __all__ = [
     '__config__',
-    'config',
     'get_logger',
     'BOTLoggerAdapter',
     'BOTLogFormatter',
